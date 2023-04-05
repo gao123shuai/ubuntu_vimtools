@@ -1,2 +1,2 @@
 # ubuntu_vimtools
- 
+ubuntu下安装vim工具后解压此工具后替换对应文件和文件夹即可使用。
